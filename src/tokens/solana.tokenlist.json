@@ -8,17 +8,16 @@
   ],
   "timestamp": "2025-06-30T00:00:00+00:00",
   "tokens": [
-    {
-      "chainId": 101,
-      "address": "8aPiL2yHBv4JGE1pDLXaGXHCTXpSssnaGugyF6kyLr22",
-      "symbol": "8aP",
-      "name": "8aP Token",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Solanalive/token-list/main/assets/mainnet/8aPiL2yHBv4JGE1pDLXaGXHCTXpSssnaGugyF6kyLr22/logo.png",
-      "tags": [
-        "utility-token"
-      ]
-    }
+  {
+    "chainId": 101,
+    "address": "8aPiL2yHBv4JGE1pDLXaGXHCTXpSssnaGugyF6kyLr22",
+    "symbol": "MSK",
+    "name": "Moscow Token",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/6HbX4nN.png",
+    "tags": ["utility-token"]
+  }
+]
   ],
   "version": {
     "major": 1,
